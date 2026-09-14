@@ -1,7 +1,5 @@
-# Metrics — Improvement First
+# Outreach metrics — improvement-first
 
-| Date | Touch | Company | Result |
-|------|-------|---------|--------|
-| 2026-09-13 | — | — | Site shipped; Pages not yet 200; no sends |
-
-Sent 0 · Bounced 0 · Replied 0 · Remove 0
+| Date | Touch | Shop | Result |
+|------|-------|------|--------|
+| 2026-09-14 | T1 | 5 County Construction, A-1 Septic Tank Plus | sent |
